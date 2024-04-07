@@ -31,3 +31,9 @@ Hi Folks, this project is an effort to replicate backend functionality of the Ve
 
 Knowing how things work at backend of vercel was pretty intresting. Once I understood how simple it was to build the skeleton for the backend, ideas on how to make it better and how it can be optimized in terms of space and time started showing up.
 Never thought it was so easy to get started. Hoping to explore more such projects. Also, special thanks to Harkirat.
+
+## Links
+
+- [Link to 100xDevs step by step guide for Vercel project](https://projects.100xdevs.com/tracks/ZSQI8YNE0iL6sT1hJpts/vercel-1)
+
+- [Link to youtube video](https://www.youtube.com/watch?v=c8_tafixiAs&t=349s)
